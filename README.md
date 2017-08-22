@@ -1,0 +1,2 @@
+# slider
+verkefni vfor3
